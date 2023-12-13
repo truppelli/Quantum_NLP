@@ -6,10 +6,10 @@ The purpose of this repository is to showcase how natural language can be mapped
 
 Create an Anaconda environment [Anaconda](https://www.anaconda.com/download) to manage your environments.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following:
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install any needed packages:
 
 ```bash
-pip install numpy qiskit lambeq discopy jupyterlab
+pip install <package>
 ```
 
 In order to import the development environment used in this repo, navigate to the python39.yaml file and execute:
