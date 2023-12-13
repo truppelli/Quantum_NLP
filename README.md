@@ -22,6 +22,8 @@ conda env create -f python39.yaml
 
 The Quantum_NLP.ipynb script is used to convert natural language to quantum states by using Lambek typelogical grammars.
 
+The Grovers_Search.ipynk script investigates the application of Grover's algorithm on queries.
+
 ## References
 
 This work is built on top of the following projects:
@@ -31,6 +33,8 @@ This work is built on top of the following projects:
 [Lambeq](https://cqcl.github.io/lambeq/)
 
 [Qiskit](https://www.ibm.com/quantum/qiskit)
+
+[Quantum Decomp](https://github.com/fedimser/quantum_decomp)
 
 ## Contributing
 
